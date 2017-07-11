@@ -6,7 +6,7 @@ using System.Linq;
 using System.Reflection;
 
 
-namespace xgPlatform.xgCore.Common
+namespace Service
 {
     public class InstantProfilerEntry
     {
